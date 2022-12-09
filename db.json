@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "jackmack",
+      "categoty": "Fruits",
+      "date": "2022-03-22T18:30:00.000Z",
+      "freshness": "Refublished",
+      "price": 54545,
+      "comment": "done",
+      "id": 2
+    },
+    {
+      "productName": "shifali",
+      "categoty": "Vegetables",
+      "date": "2022-03-30T18:30:00.000Z",
+      "freshness": "Second Hand",
+      "price": 445,
+      "comment": "buy",
+      "id": 3
+    },
+    {
+      "productName": "jantar",
+      "categoty": "Vegetables",
+      "date": "2022-03-22T18:30:00.000Z",
+      "freshness": "Refublished",
+      "price": 542,
+      "comment": "new",
+      "id": 4
+    },
+    {
+      "productName": "stsrtsrt",
+      "categoty": "Fruits",
+      "date": "2022-03-28T18:30:00.000Z",
+      "freshness": "Brand New",
+      "price": 356,
+      "comment": "ryt6ete466",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

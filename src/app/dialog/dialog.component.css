@@ -1,0 +1,52 @@
+*{
+    /* width: 370px !important; */
+    overflow-x: hidden;
+    overflow-y:visible;
+    
+}
+
+mat-form-field{
+    width: 90% !important; 
+}
+
+
+.example-radio-group {
+   
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+  
+  .example-radio-button {
+    margin: 8px;
+    padding: 4px;
+  }
+
+
+
+
+
+@media (max-width: 505.98px) { 
+    *{
+        width: 250px !important;
+       overflow-x: hidden;
+   } 
+
+ .dialog{
+ width: 80%;
+ }
+ mat-form-field{
+    width: 90% !important;
+}
+h1{
+    text-transform: capitalize;
+    margin: 0 auto;
+}
+mat-label{
+    font-size: 10px;
+}
+span{
+    font-size: 10px;
+}
+}
